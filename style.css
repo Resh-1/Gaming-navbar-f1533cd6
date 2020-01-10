@@ -1,0 +1,11 @@
+.navbar p {
+	display:inline-flex;	
+	align-items: center;
+	margin-right: 170px;
+	margin-left: 80px;
+}
+.navbar {
+	background-color: orange;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
